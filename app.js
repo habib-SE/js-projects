@@ -1,5 +1,5 @@
 //var ,let ,const
-//Var
+//Var known
 // console.log("Hello word");
 // console.log([1,2,3,4]);
 // var raja="this my first time";
