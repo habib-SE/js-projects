@@ -209,4 +209,10 @@
               document.getElementById('task-title').style.padding='5pxt';
 
 // change content
-document.getElementById('task-title').textContent='Task-List';              
+document.getElementById('task-title').textContent='Task-List'; 
+document.getElementById('task-title').innerHTML='My Task';
+document.getElementById('task-title').textContent='task-List';  
+
+                          // document.query selector
+                         console.log( document.querySelector('task-title'));
+                         console.log(document.querySelector('h5'));
